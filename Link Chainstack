@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/json" --data '{"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest", false],"id":1}' https://frosty-kilby:deluge-marina-abacus-strut-blame-sturdy@nd-084-126-877.p2pify.com
